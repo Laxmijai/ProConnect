@@ -1,9 +1,9 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "this is our first Major project",
+  "description": "this is my first Major project",
   "license": "ISC",
-  "author": "ayush sahu",
+  "author": "Laxmi Jaiswal",
   "type": "module",
   "main": "index.js",
   "scripts": {
